@@ -23,12 +23,12 @@ Foi desenvolvido o projeto **TropaDigital-api**  para criação de uma api de us
 $ git clone https://github.com/Amatos00/Tropadigital-api.git
 
 # Entrar no diretório
-$ cd Tropadigital-api
+$ cd backend
 
 # Instalar as dependências
-$ yarn istall
+$ yarn install
 
-# Coverter o projeto de Typescript para javascript
+# Converter o projeto de Typescript para javascript
 $ yarn build
 
 # Iniciar o projeto
