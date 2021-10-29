@@ -1,0 +1,10 @@
+POST http://localhost:3333/users
+Content-Type: application/json
+
+{
+  "name": "Anderson",
+  "lastname": "Matos",
+  "email": "amatos@gmail.com",
+  "phone": "11900000000",
+  "cpf": "0000000000"  
+}
